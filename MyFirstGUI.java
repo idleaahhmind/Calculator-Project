@@ -284,6 +284,7 @@ public class MyFirstGUI extends JFrame {
     }
 
     public static void main(String[] args) {
-        new MyFirstGUI(); //
+        new MyFirstGUI(); 
     }
 }
+
